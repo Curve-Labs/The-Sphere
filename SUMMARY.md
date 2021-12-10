@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Introduction](README.md)
+* [About The Sphere](about-the-sphere.md)
+* [The Sphere Ecosystem](the-sphere-ecosystem.md)
